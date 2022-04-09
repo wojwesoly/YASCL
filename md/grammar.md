@@ -10,11 +10,14 @@ For example, let's look at the sentence _The big dog bit the small man_. YASCL d
 
 #### What doesn't YASCL have?\*
 
-- Grammatical gender<sup id="a4">[[4]](#f4)</sup> (like in Romance languages, compare: French _le appartement_ (masculine) and _la baguette_ (feminine))
+- Grammatical gender<sup id="a4">[[4]](#f4)</sup>
 
-- Articles (like English _the_, _a[n]_, German _der_, _die_, _das_)
+- Articles (like English _the_, _a[n]_, German _der_, _die_, _das_, French _le_, _la_)
 
-- Cases<sup id="a5">[[5]](#f5)</sup> (like in Slavic languages or German. Cases add special endings to words and change their meaning a little. They help to determine the function of a word in a sentence. In English there are no cases (although the possessive 's is technically the genitive case), and the function is determined only by word order.)
+- Cases.<sup id="a5">[[5]](#f5)</sup>
+
+- Tenses.
+  - Instead of tense forms of verbs, YASCL uses special time-indicating words like _[PAST TENSE WORD]_ indicating that the sentence is talking about the past or _[FUTURE TENSE WORD]_ indicating that the sentence is talking about the future)
 
 <hr style="background-color: black; height: 2px">
 
