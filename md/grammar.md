@@ -6,7 +6,7 @@
 
 The word order of YASCL is OSV (object<sup id="a2">[[2]](#f2)</sup>, subject<sup id="a3">[[3]](#f3)</sup>, verb).
 
-For example, let's look at the sentence _The big dog bit the small man_. YASCL doesn't have articles, so we will drop them here. _Big dog bit small man_. Now, let's change the word order to OSV. _Big dog_ is the subject, _small man_ is the object, and _bit_ is the verb. So, the final sentence would look like this: _Small man big dog bit_.
+Let's take the sentence _The big dog bit the small man_ as an example. YASCL doesn't have articles, so we will drop them here. _Big dog bit small man_. Now, let's change the word order to OSV. _Big dog_ is the subject, _small man_ is the object, and _bit_ is the verb. So, the final sentence would look like this: _Small man big dog bit_.
 
 #### What doesn't YASCL have?\*
 
@@ -17,7 +17,7 @@ For example, let's look at the sentence _The big dog bit the small man_. YASCL d
 - Cases.<sup id="a5">[[5]](#f5)</sup>
 
 - Tenses.
-  - Instead of tense forms of verbs, YASCL uses special time-indicating words like _[PAST TENSE WORD]_ indicating that the sentence is talking about the past or _[FUTURE TENSE WORD]_ indicating that the sentence is talking about the future)
+  - There are no tenses in YASCL. Instead, the tense is simply stated as a word in the sentence (like _[WORD FOR EARLIER]_ - earlier, _[WORD FOR YESTERDAY]_ - yesterday, _[WORD FOR LATER]_ - later, _[WORD FOR TOMORROW]_ - tomorrow). Because of this system, there are no verb tenses and the tense can be stated very easily without having to create a verb tense system.
 
 <hr style="background-color: black; height: 2px">
 
