@@ -12,7 +12,7 @@ For example, let's look at the sentence _The big dog bit the small man_. YASCL d
 
 - Grammatical gender<sup id="a4">[[4]](#f4)</sup> (like in Romance languages, compare: French _le appartement_ (masculine) and _la baguette_ (feminine))
 
-- Articles (like English _the_, _a[n]_, German _der_, _die_, _das_, or aforementioned French _le_ and _la_)
+- Articles (like English _the_, _a[n]_, German _der_, _die_, _das_)
 
 - Cases<sup id="a5">[[5]](#f5)</sup> (like in Slavic languages or German. Cases add special endings to words and change their meaning a little. They help to determine the function of a word in a sentence. In English there are no cases (although the possessive 's is technically the genitive case), and the function is determined only by word order.)
 
