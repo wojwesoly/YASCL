@@ -1,4 +1,4 @@
-# YASCL Grammar
+# YASCL's Grammar
 
 ## Basic grammar concepts
 
@@ -17,7 +17,7 @@ Let's take the sentence _The big dog bit the small man_ as an example. YASCL doe
 - Cases.<sup id="a5">[[5]](#f5)</sup>
 
 - Tenses.
-  - There are no tenses in YASCL. Instead, the tense is simply stated as a word in the sentence (like _[WORD FOR EARLIER]_ - earlier, _[WORD FOR YESTERDAY]_ - yesterday, _[WORD FOR LATER]_ - later, _[WORD FOR TOMORROW]_ - tomorrow). Because of this system, there are no verb tenses and the tense can be stated very easily without having to create a verb tense system.
+  - There are no tenses in YASCL. Instead, the tense is simply stated as a word in the sentence (e.g.: _[WORD FOR EARLIER]_ - earlier, _[WORD FOR YESTERDAY]_ - yesterday, _[WORD FOR LATER]_ - later, _[WORD FOR TOMORROW]_ - tomorrow). Because of this system, there are no verb tenses and the tense can be stated very easily without having to create a verb tense system.
 
 <hr style="background-color: black; height: 2px">
 

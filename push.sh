@@ -1,7 +1,11 @@
 #/bin/bash
 
-./md/convert.sh
+read -p "Did you convert all the .md files to .html [y/N]? " ans
+ans=${ans:-n}
 
-git add .
-git commit -m $1
-git push
+if [ "$ans" = "y" ]; then
+    ./md/convert.sh
+    
+    git commit -am $1
+    git push
+fi

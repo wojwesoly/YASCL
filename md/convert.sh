@@ -6,8 +6,8 @@ for FILE in $DIR/md/*.md; do
     NAME=$(echo -n $FILE | head -c-3)
     PDF_NAME=$(basename $NAME) 
     
-    echo "Creating $NAME.html..."
-    pandoc $FILE -o $NAME.html
+    #echo "Creating $NAME.html..."
+    #pandoc $FILE -o $NAME.html
 
     echo "Creating $DIR/pdf/$PDF_NAME.pdf..."
     prince $NAME.html -o $DIR/pdf/$PDF_NAME.pdf
@@ -19,4 +19,4 @@ done
 
 # .html files are only used for conversion with prince.
 echo -e "\nDeleting all .html files..."
-/usr/bin/rm $DIR/md/*.html
+#/usr/bin/rm $DIR/md/*.html
